@@ -36,5 +36,5 @@
 
 ##
 
-![Snake animation](github.com/DvGuerraa)
+
 
