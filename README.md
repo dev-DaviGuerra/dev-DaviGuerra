@@ -1,7 +1,7 @@
 ## Me chamo Davi Guerra 👋
 
 - 🔭 Cursando Engenharia de Software
-- 🌱 Estou estudando PHP e JS
+- 🌱 Estou estudando PHP, estou estudando POO, entendendo o conceito de heranças e polimorfismo
 
 
 <div style="display: inline_block"><br>
