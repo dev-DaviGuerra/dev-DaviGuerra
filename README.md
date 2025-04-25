@@ -1,7 +1,7 @@
 ## Me chamo Davi Guerra 👋
 
 - 🔭 Cursando Engenharia de Software
-- 🌱 Estou estudando PHP, estou estudando POO, entendendo o conceito de heranças e polimorfismo
+- 🌱 Estou estudando Laravel, aprendendo os conceitos do framework
 
 
 <div style="display: inline_block"><br>
@@ -11,7 +11,7 @@
   <img align="center" alt= "Davi-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt= "Davi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt= "Davi-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
-  <img align="center" alt= "Davi-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />          
+  <img align="center" alt= "Davi-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>          
 </div>
   
   ##
