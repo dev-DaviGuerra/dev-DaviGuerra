@@ -1,7 +1,7 @@
 ## Me chamo Davi Guerra 👋
 
 - 🔭 Cursando Engenharia de Software
-- 🌱 Estou estudando Python para Engenharia de dados
+- 🌱 Aprendendo a biblioteca Pandas e melhorando meu conhecimento em SQL
 
 
 <div style="display: inline_block"><br>
