@@ -1,7 +1,7 @@
 ## Me chamo Davi Guerra 👋
 
 - 🔭 Cursando Engenharia de Software
-- 🌱 Aprendendo a biblioteca Pandas e melhorando meu conhecimento em SQL
+- 🌱 Aprendendo Dash para criação de dashboards interativos
 
 
 <div style="display: inline_block"><br>
