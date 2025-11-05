@@ -1,7 +1,10 @@
 ## Me chamo Davi Guerra 👋
 
-- 🔭 Cursando Engenharia de Software
-- 🌱 Aprendendo Dash para criação de dashboards interativos
+🙋 **Engenheiro de Dados**
+
+🔭 **Cursando Engenharia de Software (2º período)**
+
+🌱 **Estudando Inteligência Artificial**
 
 
 <div style="display: inline_block"><br>
@@ -17,6 +20,7 @@
   <img align="center" alt= "Davi-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="center" alt= "Davi-Plotly" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
   <img align="center" alt= "Davi-PostgresSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt= "Davi-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
 </div>
   
