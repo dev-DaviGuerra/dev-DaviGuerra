@@ -1,6 +1,6 @@
 ## Me chamo Davi Guerra 👋
 
-🙋 **Estudante de Sistemas de Informação | Engenharia de Dados**
+🙋 **Engenharia de Dados**
 
 🏭 **Estagiário em Engenharia de Dados na Nissan do Brasil**
 
